@@ -13,6 +13,7 @@ Email Spam Detection is a project implemented on Machine Learning to detect whet
 2. nltk
 3. numpy
 4. pandas
+5. flask
 
 # Questions
 For questions, do reach me on <a href="https://linkedin.com/in/MadhuPIoT">LinkedIn</a>
